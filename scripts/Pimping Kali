@@ -1,0 +1,5 @@
+# PimpMyKali - making Kali look good 💅
+echo "🛠️ Time to pimp this ride..."
+git clone https://github.com/Dewalt-arch/pimpmykali.git
+cd pimpmykali
+./pimpmykali.sh
